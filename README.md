@@ -140,8 +140,3 @@ This project was built to explore and demonstrate:
 - Handling file uploads in web applications  
 - Integrating generative AI into practical workflows  
 
----
-
-## License
-
-This project is licensed under the MIT License.
