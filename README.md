@@ -12,7 +12,7 @@ The project demonstrates how modern web technologies and AI services can be inte
 - Job description comparison  
 - Skill gap identification  
 - AI-generated interview questions  
-- Suggestions for improving ATS compatibility  
+- Suggestions for improving ATS compatibility
 - Secure user authentication  
 
 ---
