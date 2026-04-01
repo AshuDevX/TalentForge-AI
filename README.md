@@ -2,7 +2,8 @@
 
 TalentForge-AI is a full-stack web application designed to assist job seekers in preparing for technical interviews. The platform allows users to upload resumes, analyze job descriptions, identify potential skill gaps, and generate interview preparation questions using generative AI.
 
-The project demonstrates how modern web technologies and AI services can be integrated to support common steps in the job application and interview preparation process.
+The project demonstrates how modern web technologies and AI services can be integrated to support common steps in the job application and
+interview preparation process.
 
 ---
 
