@@ -8,7 +8,7 @@ The project demonstrates how modern web technologies and AI services can be inte
 
 ## Features
 
-- Resume upload and analysis  
+- Resume upload and analysis
 - Job description comparison  
 - Skill gap identification  
 - AI-generated interview questions  
