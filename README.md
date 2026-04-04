@@ -12,7 +12,7 @@ interview preparation process.
 - Resume upload and analysis
 - Job description comparison  
 - Skill gap identification  
-- AI-generated interview questions  
+- AI-generated interview questions
 - Suggestions for improving ATS compatibility
 - Secure user authentication  
 
